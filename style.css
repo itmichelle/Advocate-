@@ -1,0 +1,102 @@
+жbody{
+    margin: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #1e313e;
+    padding: 10px;
+}
+
+.item {
+    color: #efd3a2;
+    padding: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif
+}
+
+.section-header {
+    display: flex;
+    justify-content: center;
+}
+.heading {
+ text-transform: uppercase;
+ color: #1e313e;
+ font-size: 30px;
+ font-family: "Montserrat", sans-serif
+}
+
+.section-about {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1e313e;
+    padding: 60px;
+}
+.about-us {
+    align-self: center;
+    padding: 10px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.wrapper {
+
+    display: flex;
+    background-color: #1e313e;
+    padding: 80px;
+    color: white;
+}
+
+.reason-block {
+    padding: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+span {
+    color: #1e313e;
+    background-color: #bb8a5e;
+    border-radius: 50px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 70px;
+    margin: 40px;
+    padding: 20px;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    background-color: #1e313e;
+    padding: 60px;
+}
+
+.money {
+    display: flex;
+    background-color: #1e313e;
+    padding: 50px;
+   font-size: 16px;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+    background-color: #1e313e;
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.map {
+    display: flex;
+    justify-content: center;
+    background-color: #1e313e;
+    padding: 50px;
+ 
+}
